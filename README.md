@@ -1,14 +1,65 @@
-<h1 align="center">Hi 👋, I'm @sudoundefined</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<!-- Header Section -->
+<h1 align="center">Hi 👋, I'm Deepanshu Srivastava</h1>
+<h3 align="center">Technical Lead & Senior Full-Stack Engineer</h3>
 
-- 🌱 I’m currently learning **Python, Data Structure & Algorithms**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Architecting+Distributed+Systems;Node.js+%2B+React.js+Expert;Cloud+%26+Microservices+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
-- 💬 Ask me about **Javascript, Angular, Node**
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Animated Hello"/>
+</p>
 
-- 📫 How to reach me **deepanshu.srivastava@outlook.com**
+<!-- About Me Section -->
+## 👨‍💻 About Me
+- 🔭 I’m currently working as a **Technical Lead**, architecting high-performance orchestration frameworks and scalable distributed systems.
+- 🌱 Specialized in **Node.js, TypeScript, React**, and **Cloud Infrastructure** (Docker, Kubernetes).
+- 💬 Ask me about **Microservices, Event-Driven Architecture, Micro-frontends (Single-SPA), or CI/CD pipelines**.
+- 🚀 Proven track record of reducing operational costs, driving platform adoption, and accelerating release cycles at companies like *HCL Tech, MatchLog Solutions*, and *Shiplyst Systems*.
+- 📫 How to reach me: **[srivastava.deepanshu24@gmail.com](mailto:srivastava.deepanshu24@gmail.com)**
+- 📄 Checkout my live portfolios: 
+  - 🌐 [Premium Vanilla UI Resume](https://sudoundefined.github.io/resume/)
+  - 🎮 [Interactive 3D React Portfolio](https://sudoundefined.github.io/resume/3d-portfolio/)
 
-- ⚡ Fun fact **70% of coding jobs have nothing to do with technology at all**
+<!-- Technologies Section -->
+## 🛠️ Technical Arsenal
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,angular,express,nestjs,graphql,postgres,mongodb,mysql,redis,kafka,rabbitmq,docker,kubernetes,aws,jenkins&perline=9" alt="Skills" />
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Domain Expertise
+- **Architecture**: Microservices, Event-Driven, Distributed Systems, Micro-frontends (Single-SPA), Multi-Tenancy.
+- **Testing & Methodologies**: Playwright, Jest, TDD, Agile, System Design (HLD/LLD), AI/MCP Integration.
+
+<!-- GitHub Stats -->
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/sudoundefined">
+    <img src="https://github-readme-stats.vercel.app/api?username=sudoundefined&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/sudoundefined">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudoundefined&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</div>
+
+<!-- Top Languages -->
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoundefined&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<!-- Footer -->
+<br/>
+<hr/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ds3042/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:srivastava.deepanshu24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+</p>

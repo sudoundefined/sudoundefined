@@ -20,8 +20,7 @@
 - 🚀 Proven track record of reducing operational costs, driving platform adoption, and accelerating release cycles at companies like *HCL Tech, MatchLog Solutions*, and *Shiplyst Systems*.
 - 📫 How to reach me: **[srivastava.deepanshu24@gmail.com](mailto:srivastava.deepanshu24@gmail.com)**
 - 📄 Checkout my live portfolios: 
-  - 🌐 [Premium Vanilla UI Resume](https://sudoundefined.github.io/resume/)
-  - 🎮 [Interactive 3D React Portfolio](https://sudoundefined.github.io/resume/3d-portfolio/)
+  - 🌐 [Resume](https://sudoundefined.github.io/resume/)
 
 <!-- Technologies Section -->
 ## 🛠️ Technical Arsenal

@@ -37,23 +37,10 @@
 - **Testing & Methodologies**: Playwright, Jest, TDD, Agile, System Design (HLD/LLD), AI/MCP Integration.
 
 <!-- GitHub Stats -->
-## 📈 GitHub Stats
-
 <div align="center">
-  <a href="https://github.com/sudoundefined">
-    <img src="https://github-readme-stats.vercel.app/api?username=sudoundefined&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <br/>
-  <br/>
   <a href="https://github.com/sudoundefined">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudoundefined&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
-</div>
-
-<!-- Top Languages -->
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoundefined&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <!-- Footer -->
